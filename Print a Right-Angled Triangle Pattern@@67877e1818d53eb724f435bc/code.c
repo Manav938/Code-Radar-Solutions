@@ -6,5 +6,5 @@ int main(){
         for(j=1;j<=i;i++)
         printf("*");
     }
-    printf("%d")
+    printf("\n")
 }
