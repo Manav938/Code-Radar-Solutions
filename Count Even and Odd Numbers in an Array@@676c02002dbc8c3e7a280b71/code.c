@@ -15,6 +15,6 @@ int main(){
             count_odd++;
         }
     }
-    printf("%d",count_even);
+    printf("%d ",count_even);
     printf("%d",count_odd);
 }
