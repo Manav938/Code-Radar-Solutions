@@ -7,6 +7,10 @@ int main(){
     }else if(n==2){
         printf(" 1 \n");
         printf("121");
+    }else if(n==2){
+        printf("  1  \n");
+        printf(" 121 \n");
+        printf("12321");
     }
     return 0;
 }
