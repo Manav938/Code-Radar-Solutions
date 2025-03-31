@@ -24,5 +24,12 @@ int main(){
         printf("  *****  \n");
         printf(" ******* \n");
         printf("*********");
+    }else if (n==6){
+        printf("     *     \n");
+        printf("    ***    \n");
+        printf("   *****   \n");
+        printf("  *******  \n");
+        printf(" ********* \n");
+        printf("***********");
     }
 }
