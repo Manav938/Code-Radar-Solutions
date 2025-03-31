@@ -9,9 +9,9 @@ int main(){
     int count_even = 0;
     int count_odd = 0;
     for(int i=0;i<n;i++){
-        if (arr[i] % 2 =0){
+        if (arr[i] % 2 = 0){
             count_even++;
-        }else if (arr[i] % 2 !=0){
+        }else if (arr[i] % 2 != 0){
             count_odd++;
         }
     }
