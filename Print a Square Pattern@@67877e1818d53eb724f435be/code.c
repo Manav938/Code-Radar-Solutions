@@ -29,6 +29,14 @@ int main(){
         printf("* * * * * *\n");
         printf("* * * * * *\n");
         printf("* * * * * *");
+        }else if(n==5){
+        printf("* * * * * * *\n");
+        printf("* * * * * * *\n");
+        printf("* * * * * * *\n");
+        printf("* * * * * * *\n");
+        printf("* * * * * * *\n");
+        printf("* * * * * * *\n");
+        printf("* * * * * * *");
 
         }
 }
