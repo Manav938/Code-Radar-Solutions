@@ -11,5 +11,5 @@ int main(){
     }else if(n==3){
         printf("* * *\n");
         printf("* * *\n");
-        printf("* * *")
+        printf("* * *");
 }
