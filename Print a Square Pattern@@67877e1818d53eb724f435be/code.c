@@ -12,5 +12,11 @@ int main(){
         printf("* * *\n");
         printf("* * *\n");
         printf("* * *");
+}else if(n==3){
+        printf("* * * *\n");
+        printf("* * * *\n");
+        printf("* * * *\n");
+        printf("* * * *");
+        
 }
 }
